@@ -86,6 +86,18 @@ The system consists of three main models:
 3. **Viewing Earnings & Referrals:**
    - Users can search for **total earnings** and **referral details** (Level 1 & Level 2).
 
+![image](https://github.com/user-attachments/assets/ab9e1fa4-6ff5-46b4-8702-87131913709b)
+
+
+
+![image](https://github.com/user-attachments/assets/7ee2831d-f9c1-40eb-aba9-12d07835832a)
+
+
+
+![image](https://github.com/user-attachments/assets/79ec5a52-6148-4ca1-8e7e-5923555e73c9)
+
+
+
 ---
 
 ## 📜 Setup & Installation
